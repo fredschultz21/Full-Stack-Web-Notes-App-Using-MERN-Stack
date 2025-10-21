@@ -1,17 +1,7 @@
-<h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
+MERN Stack Notes App
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-Highlights:
-
-- 🧱 Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
-- ✨ Create, Update, and Delete Notes with Title & Description
-- 🛠️ Build and Test a Fully Functional REST API
-- ⚙️ Rate Limiting with Upstash Redis — a Real-World Concept Explained Simply
-- 🚀 Completely Responsive UI
-- 🌐 Explore HTTP Methods, Status Codes & SQL vs NoSQL
-- 📦 Deployment Guide Included — Add the Live App to Your Resume
-- 📚 Designed for Absolute Beginners
+A full-stack MERN (MongoDB, Express, React, Node.js) application built while following the “MERN Stack Tutorial for Beginners with Deployment – 2025” guide. (https://www.youtube.com/watch?v=F9gB5b4jgOI)
+The goal of this project was to gain a deep understanding of full-stack web development, from backend API setup to frontend integration and deployment.
 
 ---
 
