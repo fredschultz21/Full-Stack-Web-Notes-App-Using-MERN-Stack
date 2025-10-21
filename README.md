@@ -5,7 +5,7 @@ The goal of this project was to gain a deep understanding of full-stack web deve
 
 ---
 
-## 🧪 .env Setup
+## .env Setup
 
 ### Backend (`/backend`)
 
@@ -18,7 +18,7 @@ UPSTASH_REDIS_REST_TOKEN=<your_redis_rest_token>
 NODE_ENV=development
 ```
 
-## 🔧 Run the Backend
+## Run the Backend
 
 ```
 cd backend
@@ -26,10 +26,11 @@ npm install
 npm run dev
 ```
 
-## 💻 Run the Frontend
+## Run the Frontend after opening a second terminal
 
 ```
 cd frontend
 npm install
 npm run dev
 ```
+Go to local host 5173 for the website.
